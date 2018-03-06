@@ -4,11 +4,11 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <!-- Primary theme color of the app (sets background color of app bar) -->
-        <item name="colorPrimary">#FF9800</item>
+        <item name="colorPrimary">#33691E</item>
         <!-- Background color of buttons in the app -->
-        <item name="colorButtonNormal">#FF9800</item>
+        <item name="colorButtonNormal">#33691E</item>
         <item name="windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
+        <item name="android:textColor">#ffffff</item>
     </style>
-
 </resources>
